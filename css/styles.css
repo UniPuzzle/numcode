@@ -84,7 +84,8 @@ img {
 
 /* ===============Header============== */
 
-.header__logo {
+.nmc {
+  display: none;
 }
 
 /* ===============section============ */
